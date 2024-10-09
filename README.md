@@ -17,15 +17,15 @@ El repositorio contiene los siguientes archivos clave para el funcionamiento del
 
 Puedes clonar el repositorio y compilar los archivos utilizando el compilador de tu preferencia. Aquí tienes un ejemplo de cómo compilar el proyecto con `gcc`:
 
-\```bash
+```bash
 cc -Wall -Wextra -Werror get_next_line.c get_next_line_utils.c -o get_next_line
-\```
+```
 
 Para la versión **bonus**:
 
-\```bash
+```bash
 cc -Wall -Wextra -Werror get_next_line_bonus.c get_next_line_utils_bonus.c -o get_next_line_bonus
-\```
+```
 
 ## 📚 Consulta la Wiki
 
